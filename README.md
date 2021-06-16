@@ -3,7 +3,7 @@ Freecodecamp course projects
 
 ## Tribute Page
 https://codepen.io/renita1206/full/WNRVZvw
-![image](https://user-images.githubusercontent.com/66276711/122197581-f59c5d80-ceb5-11eb-92e7-0488dcc583ac.png)
+![image](https://user-images.githubusercontent.com/66276711/122197692-14025900-ceb6-11eb-9d78-d4887583c6ff.png)
 
   
 ## Survey Page
