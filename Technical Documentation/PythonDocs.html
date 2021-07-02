@@ -1,0 +1,147 @@
+<html>
+    <head>
+        <title>Python Documentation</title>
+        <link href="Docs.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <nav id="navbar">
+            <header> 
+                <img src="https://www.sketchappsources.com/resources/source-image/python-logo.png" alt="python-logo" width="50px" align="left">
+                Python 
+            </header>
+            <ul>
+            <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+            <li><a class="nav-link" href="#Hello_world">Hello world</a></li>
+            <li><a class="nav-link" href="#Data_types">Data types</a></li>
+            <li><a class="nav-link" href="#if...else_statement">if - else statement</a></li>
+            <li><a class="nav-link" href="#for_statement">for loop</a></li>
+            <li><a class="nav-link" href="#while_statement">while loop</a></li>
+            <li><a class="nav-link" href="#Reference">Reference</a></li>
+            </ul>
+        </nav>
+        <main id="main-doc">
+            <section class="main-section" id="Introduction">
+            <header>Introduction</header>
+            <article>
+                <p>
+                    Python is an easy to learn, powerful programming language. 
+                    It has efficient high-level data structures and a simple but 
+                    effective approach to object-oriented programming. Python’s elegant syntax 
+                    and dynamic typing, together with its interpreted nature, 
+                    make it an ideal language for scripting and rapid application development 
+                    in many areas on most platforms.
+                </p>
+        
+                <p>
+                    The Python interpreter and the extensive standard library are freely available 
+                    in source or binary form for all major platforms from the 
+                    Python Web site, https://www.python.org/, and may be freely distributed. 
+                    The same site also contains distributions of and pointers to many 
+                    free third party Python modules, programs and tools, and additional documentation.
+                </p>
+                
+            </article>
+            </section>
+            <section class="main-section" id="Hello_world">
+            <header>Hello world</header>
+            <article>
+                To get started with Python, write your first "Hello world" program in Python:
+                <code
+                >print("Hello, World")
+                </code>
+
+            </article>
+            </section>
+            <section class="main-section" id="Data_types">
+            <header>Data types</header>
+            <article>
+                <ul>
+                    <li> int        - positive or negative whole numbers</li>
+                    <li> float      - real number with floating point representation</li>
+                    <li> char       - characters</li>
+                    <li> Boolean    - true and false </li>
+                    <li> String     - collection of one or more characters put in a single quote, double-quote or triple quote</li>
+                    <li> Lists      - ordered collection of data</li>
+                </ul>
+            </article>
+            </section>
+            <section class="main-section" id="if...else_statement">
+            <header>if...else statement</header>
+            <article>
+                Use the if statement to execute a statement if a logical condition is
+                true. Use the optional else clause to execute a statement if the condition
+                is false. An if statement looks as follows:
+        
+                <code>
+                    if (condition):
+                    [indent]statements
+                    else:
+                    [indent]statements
+                </code>
+                condition can be any expression that evaluates to true or false. See
+                Boolean for an explanation of what evaluates to true and false. If
+                condition evaluates to true, statement_1 is executed; otherwise,
+                statement_2 is executed. statement_1 and statement_2 can be any statement,
+                including further nested if statements.
+                <p>
+                    You may also compound the statements using else if to have multiple
+                    conditions tested in sequence.
+                </p>
+            </article>
+            </section>
+            <section class="main-section" id="for_statement">
+                <header>for loop</header>
+                <article>
+                    The for statement in Python differs a bit from what you may be used to in C or Pascal. 
+                    Rather than always iterating over an arithmetic progression of numbers (like in Pascal), 
+                    or giving the user the ability to define both the iteration step and halting condition (as C), 
+                    Python’s for statement iterates over the items of any sequence (a list or a string), 
+                    in the order that they appear in the sequence. For example - 
+            
+                    <code>
+                        for i in range(10):
+                        [indent]print(i)
+                    </code> 
+                    
+                </article>
+                </section>
+            <section class="main-section" id="while_statement">
+            <header>while loop</header>
+            <article>
+                A while statement executes its statements as long as a specified condition
+                evaluates to true. A while statement looks as follows:
+        
+                <code>
+                    while (condition):
+                    [indent]statements
+                </code> 
+                If the condition becomes false,
+                statement within the loop stops executing and control passes to the
+                statement following the loop.
+        
+                <p>
+                    The condition test occurs before statement in the loop is executed. If
+                    the condition returns true, statement is executed and the condition is
+                    tested again. If the condition returns false, execution stops and
+                    control is passed to the statement following while.
+                </p>
+            </article>
+            </section>
+            <section class="main-section" id="Reference">
+            <header>Reference</header>
+            <article>
+                <ul>
+                <li>
+                    All the documentation in this page is taken from
+                    <a
+                    href="https://docs.python.org/3/"
+                    target="_blank"
+                    >MDN</a
+                    >
+                </li>
+                </ul>
+            </article>
+            </section>
+        </main>
+    </body>
+</html>
