@@ -24,6 +24,11 @@ Link - https://codepen.io/renita1206/full/dyWojKM
   
 ![Screenshot 2021-07-02 131941](https://user-images.githubusercontent.com/66276711/124240711-a2bed900-db38-11eb-9f4c-21b4a175d924.png)
 
+## Portfolio  
+Link - https://codepen.io/renita1206/full/RwVWwWP  
+  
+![Portfolio prototype ](https://user-images.githubusercontent.com/66276711/124321484-62dd0d80-db9b-11eb-9add-f31bcc0947d1.png)
+
 
 
 
