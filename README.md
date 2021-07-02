@@ -21,8 +21,9 @@ Link - https://codepen.io/renita1206/full/NWpoPwV
 
 ## Technical Documentation Page
 Link - https://codepen.io/renita1206/full/dyWojKM   
+  
+![Screenshot 2021-07-02 131941](https://user-images.githubusercontent.com/66276711/124240711-a2bed900-db38-11eb-9f4c-21b4a175d924.png)
 
-![img](https://user-images.githubusercontent.com/66276711/124240266-3512ad00-db38-11eb-8986-8959ce41e639.png)  
 
 
 
