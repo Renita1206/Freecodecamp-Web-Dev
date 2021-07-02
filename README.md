@@ -15,3 +15,9 @@ https://codepen.io/renita1206/full/poeqeKy
 https://codepen.io/renita1206/full/NWpoPwV
 ![image](https://user-images.githubusercontent.com/66276711/122197376-bf5ede00-ceb5-11eb-9ab1-c979714ee7e3.png)
 
+
+## Technical Documentation Page
+https://codepen.io/renita1206/full/dyWojKM
+![image](https://user-images.githubusercontent.com/66276711/122197376-bf5ede00-ceb5-11eb-9ab1-c979714ee7e3.png)
+
+
